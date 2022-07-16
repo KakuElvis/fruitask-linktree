@@ -1,5 +1,4 @@
 <?php include './partials/head.php';?>                  
-
 	
 <?php include './partials/sidebar.php';?>  
 
