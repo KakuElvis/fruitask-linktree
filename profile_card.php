@@ -12,7 +12,7 @@
                     </div>
 
                     <div class="p-10 mx-4">
-                        <div class="-mt-4 grid gap-2 sm:grid-cols-2 lg:grid-cols-3 md:-mx-8">
+                        <div class="-mt-8 grid gap-2 sm:grid-cols-2 lg:grid-cols-3 md:-mx-8">
                             <div class="relative group">
                                 <a href="#">
                                     <div aria-hidden="true" class="absolute inset-0 rounded-xl bg-background shadow-lg transition duration-300 group-hover:bg-main group-hover:scale-100 lg:group-hover:scale-100"></div>
@@ -34,7 +34,7 @@
                                     <div class="relative space-y-12 p-2 md:p-12 lg:p-6 xl:p-6">
                                         <div class="space-x-4 flex justify-center">
                                             <div>
-                                                <span class="group-hover:text-white hover:text-white text-xl lg:text-2xl md:text-2xl"><i class="group-hover:text-white hover:text-white text-indigo-600  fi-brands-facebook"></i></span>
+                                                <span class="group-hover:text-white hover:text-white text-xl lg:text-2xl md:text-2xl"><i class="group-hover:text-white hover:text-white text-blue-600  fi-brands-facebook"></i></span>
                                             </div>
                                             <h4 class="text-xl text-gray-800 font-medium transition group-hover:text-white">Facebook</h4>
                                         </div>
@@ -47,7 +47,7 @@
                                     <div class="relative space-y-12 p-2 md:p-12 lg:p-6 xl:p-6">
                                         <div class="space-x-4 flex justify-center">
                                             <div>
-                                                <span class="group-hover:text-white hover:text-white text-xl lg:text-2xl md:text-2xl"><i class="group-hover:text-white hover:text-white text-indigo-600  fi-brands-facebook-messenger"></i></span>
+                                                <span class="group-hover:text-white hover:text-white text-xl lg:text-2xl md:text-2xl"><i class="group-hover:text-white hover:text-white text-pink-500 fi-brands-instagram"></i></span>
                                             </div>
                                             <h4 class="text-xl text-gray-800 font-medium transition group-hover:text-white">Instagram</h4>
                                         </div>
@@ -60,7 +60,7 @@
                                     <div class="relative space-y-12 p-2 md:p-12 lg:p-4 xl:p-6">
                                         <div class="space-x-4 flex justify-center">
                                             <div>
-                                                <span class="group-hover:text-white hover:text-white text-xl lg:text-2xl md:text-2xl"><i class="group-hover:text-white hover:text-white text-indigo-600  fi-brands-twitter"></i></span>
+                                                <span class="group-hover:text-white hover:text-white text-xl lg:text-2xl md:text-2xl"><i class="group-hover:text-white hover:text-white text-blue-500  fi-brands-twitter"></i></span>
                                             </div>
                                             <h4 class="text-xl text-gray-800 font-medium transition group-hover:text-white">Twitter</h4>
                                         </div>
@@ -73,7 +73,7 @@
                                     <div class="relative space-y-12 p-2 md:p-12 lg:p-4 xl:p-6">
                                         <div class="space-x-4 flex justify-center">
                                             <div>
-                                                <span class="group-hover:text-white hover:text-white text-xl lg:text-2xl md:text-2xl"><i class="group-hover:text-white hover:text-white text-indigo-600  fi-brands-facebook-messenger"></i></span>
+                                                <span class="group-hover:text-white hover:text-white text-xl lg:text-2xl md:text-2xl"><i class="group-hover:text-white hover:text-white text-blue-500  fi-brands-facebook-messenger"></i></span>
                                             </div>
                                             <h4 class="text-xl text-gray-800 font-medium transition group-hover:text-white">Messenger</h4>
                                         </div>
@@ -86,7 +86,7 @@
                                     <div class="relative space-y-12 p-2 md:p-12 lg:p-4 xl:p-6">
                                         <div class="space-x-4 flex justify-center">
                                             <div>
-                                                <span class="group-hover:text-white hover:text-white text-xl lg:text-2xl md:text-2xl"><i class="group-hover:text-white hover:text-white text-indigo-600  fi-brands-youtube"></i></span>
+                                                <span class="group-hover:text-white hover:text-white text-xl lg:text-2xl md:text-2xl"><i class="group-hover:text-white hover:text-white text-red-400  fi-brands-youtube"></i></span>
                                             </div>
                                             <div>
                                                 <h4 class="text-xl text-gray-800 font-medium transition group-hover:text-white">Youtube</h4>
